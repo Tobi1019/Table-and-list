@@ -1,0 +1,27 @@
+#title{
+    text-align: center;
+    color: black;
+}
+.score{
+    color: red;
+}
+thead{
+    color: purple;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: pink;
+
+}
+table,th,td{
+    margin: auto;
+    font-size: 30px;
+    padding: 5px;
+    word-spacing: 5px;
+    text-align: center;
+    border: 1px solid #000000;
+    border-collapse: collapse;
+    
+}
